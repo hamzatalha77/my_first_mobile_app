@@ -1,5 +1,6 @@
 import { StatusBar } from 'expo-status-bar'
 import { StyleSheet, Text, View } from 'react-native'
+import { Button } from 'react-native-web'
 
 export default function App() {
   return (
@@ -8,7 +9,7 @@ export default function App() {
         <Text>This is my First Mobile App</Text>
       </View>
       <Text style={{ margin: 16, border: '1px solid red' }}>Welcome!</Text>
-      <StatusBar style="auto" />
+      <Button title="Tap me!" />
     </View>
   )
 }
