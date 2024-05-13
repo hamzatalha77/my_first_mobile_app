@@ -7,7 +7,7 @@ export default function App() {
       <View>
         <Text>This is my First Mobile App</Text>
       </View>
-      <Text>Welcome!</Text>
+      <Text style={{ margin: 16, border: '1px solid red' }}>Welcome!</Text>
       <StatusBar style="auto" />
     </View>
   )
