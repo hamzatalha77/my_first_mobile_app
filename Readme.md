@@ -1,1 +1,1 @@
-creating new application
+creating new application for mobile
