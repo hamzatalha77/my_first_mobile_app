@@ -6,7 +6,11 @@ export default function App() {
       <View>
         <Text>This is my First Mobile App</Text>
       </View>
-      <Text style={{ margin: 16, border: '1px solid red' }}>Welcome!</Text>
+      <Text
+        style={{ margin: 16, borderWidth: 2, borderColor: 'red', padding: 16 }}
+      >
+        Welcome!
+      </Text>
       <Button title="Tap me!" />
     </View>
   )
