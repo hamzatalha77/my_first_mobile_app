@@ -23,9 +23,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center'
   },
-  content: {
-    color: 'green',
-    width: '100%',
-    height: '100%'
+  dummyText: {
+    margin: 16,
+    borderWidth: 2,
+    borderColor: 'red'
   }
 })
