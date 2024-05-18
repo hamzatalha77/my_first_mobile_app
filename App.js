@@ -4,7 +4,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View>
-        <Text>This is my First Mobile App</Text>
+        <Text style={styles.dummyText}>This is my First Mobile App</Text>
       </View>
       <Text
         style={{ margin: 16, borderWidth: 2, borderColor: 'red', padding: 16 }}
