@@ -1,32 +1,14 @@
 import { Button, StyleSheet, Text, View } from 'react-native'
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <View>
-        <Text style={styles.dummyText}>This is my First Mobile App</Text>
-      </View>
-      <Text
-        style={{ margin: 16, borderWidth: 2, borderColor: 'red', padding: 16 }}
-      >
-        Welcome!
-      </Text>
-      <Button title="Tap me!" />
-    </View>
-  )
+  return <View style={styles.appContainer}></View>
 }
 
 const styles = StyleSheet.create({
-  container: {
+  appContainer: {
     flex: 1,
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center'
-  },
-  dummyText: {
-    margin: 16,
-    padding: 16,
-    borderWidth: 2,
-    borderColor: 'red'
   }
 })
