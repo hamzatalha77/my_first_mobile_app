@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.appContainer}>
       <View>
-        <TextInput placeholder="type something in this" />
+        <TextInput placeholder="type something in this " />
         <Button title="add something" />
       </View>
     </View>
