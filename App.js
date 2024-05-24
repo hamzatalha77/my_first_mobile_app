@@ -8,7 +8,7 @@ export default function App() {
         <TextInput placeholder="type something in this section" />
         <Button title="add something" />
       </View>
-      <Text>List </Text>
+      <Text>List of </Text>
     </View>
   )
 }
