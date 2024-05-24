@@ -4,7 +4,7 @@ import { TextInput } from 'react-native-web'
 export default function App() {
   return (
     <View style={styles.appContainer}>
-      <View>
+      <View style={styles.inputContainer}>
         <TextInput placeholder="type something in this section" />
         <Button title="add something" />
       </View>
