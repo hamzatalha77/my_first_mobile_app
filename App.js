@@ -20,5 +20,9 @@ const styles = StyleSheet.create({
   inputContainer: {
     flexDirection: 'row',
     justifyContent: 'space-between'
+  },
+  TextInput: {
+    borderWidth: 1,
+    borderColor: '#cccccc'
   }
 })
