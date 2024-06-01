@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between'
   },
   TextInput: {
-    borderWidth: 1,
+    borderWidth: 2,
     borderColor: '#cccccc'
   }
 })
