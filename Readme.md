@@ -4,4 +4,4 @@ creating new application for mobile.
 
 ##zed##
 ##cheetos##
-##legos megos##zed~##
+##le
