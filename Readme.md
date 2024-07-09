@@ -1,5 +1,5 @@
 creating new application for mobile.
 
-##test app##ss
+##test app##s
 
 ##zed##
